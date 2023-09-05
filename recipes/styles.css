@@ -1,0 +1,33 @@
+body {
+    background-color: #854D27;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.img-container {
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h3 {
+    font-weight: 650;
+    font-size: 20px;
+}
+
+li, p {
+    color:rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
